@@ -1,1 +1,1 @@
-# DL Image Classifier
+# Deep Learning Image Classifier

@@ -9,6 +9,15 @@ wheels/
 # Virtual environments
 .venv
 
-notebooks/rps_dataset
+.env
 
 .DS_Store
+
+ai/data/
+ai/notebooks/rps_dataset
+ai/notebooks/yolo26n-cls.pt
+ai/notebooks/yolo26n.pt
+
+# ai/
+ml/
+training/
